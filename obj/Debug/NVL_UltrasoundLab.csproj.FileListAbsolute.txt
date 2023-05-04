@@ -1,0 +1,159 @@
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.pdb
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe
+c:\users\admin\documents\visual studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.INITForm1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.NVL_UltrasoundLab.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\UltrasoundLab.Form1.resources
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe.config
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.pdb
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.pdb
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.xml
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.xml
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.xml
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\de\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\es\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\fr\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\hu\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\it\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ja\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\pt\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ru\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sk\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sv\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\tr\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csprojResolveAssemblyReference.cache
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.NVL_UltrasoundLab.exe.config
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\UltrasoundLab.Form1.resources
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.INITForm1.resources
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Properties.Resources.resources
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.GenerateResource.Cache
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Calibrate.resources
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.dll
+C:\soft\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ZedGraph.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.NVL_UltrasoundLab.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.INITForm1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\USB DISK\NVL_UltrasoundLab\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.xml
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe.config
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.pdb
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.pdb
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\ZedGraph.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.xml
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.xml
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\ZedGraph.xml
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.NVL_UltrasoundLab.exe.config
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Form1.resources
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.INITForm1.resources
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Properties.Resources.resources
+C:\Users\admin\Desktop\NVL_UltrasoundLab v2\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe.config
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.exe
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\NVL_UltrasoundLab.pdb
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\ZedGraph.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\Ivi.Visa.xml
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\LibUsbDotNet.xml
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\ZedGraph.xml
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe.config
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Form1.resources
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.INITForm1.resources
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.Properties.Resources.resources
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.exe
+C:\Users\User\OneDrive\Рабочий стол\NVL_UltrasoundLab v3\NVL_UltrasoundLab\obj\Debug\NVL_UltrasoundLab.pdb
